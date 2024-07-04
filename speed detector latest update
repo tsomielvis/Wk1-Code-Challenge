@@ -1,0 +1,6 @@
+function ourReasonableFunction() {
+    console.log("speed<70 is ok but if speed>70 for every 5km/s the driver will get an automatic text message via registered phone number entered in the National Transport and Safety Authority displaying 1 demerit point for each offense commited regardless the number of times which will be addressed as overspeeding");
+}
+
+ourReasonableFunction();
+   
