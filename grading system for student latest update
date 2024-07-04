@@ -1,0 +1,2 @@
+var myGrades=[["if mark>79", A], ["if mark>=60", B], ["if mark>=50", C], ["if mark>=40", D], ["if else", E],
+console.log(myGrades)
